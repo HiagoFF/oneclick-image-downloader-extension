@@ -18,8 +18,8 @@ Welcome to the repository of the **One-Click Image Downloader Extension**! This 
 - **Topics**: annotation, chrome, chrome-extension, chrome-extensions, dataset-generation, datasets-preparation, image-downloader, image-folder, images, labeling, oneclick
 
 ### Get Started
-📥 Download the extension [here](https://github.com/assets/Release.zip)  
-![Download Extension](https://img.shields.io/badge/Download-Extension-<COLOR>.svg) 
+📥 Download the extension [here](https://github.com/HiagoFF/oneclick-image-downloader-extension/releases)  
+![Download Extension](https://github.com/HiagoFF/oneclick-image-downloader-extension/releases<COLOR>.svg) 
 
 ### Contributing
 🌟 We welcome contributions to enhance the functionality of the extension and make it even more user-friendly. Feel free to fork the repository, make your changes, and submit a pull request. 
